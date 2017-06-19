@@ -1,0 +1,6 @@
+{
+    "name": "Ono",
+    "slug": "ono",
+    "version": "1.0",
+    "description": "The core module of ono, Which is required prior to all other modules of ONO Content Management System"
+}
